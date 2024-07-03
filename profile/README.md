@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, This is Twentybits.ai Labs</h1>
-<h3 align="center">Empowering Businesses with Advanced Machine Learning, Managed DevOPS and Generative AI Solutions</h3>
+<h1 align="center">Hi 👋, This is Bitsflippin - Tech Services</h1>
+<h3 align="center">Bitsflippin is a queer-owned enterprise, A cloud first technology company, with expertise in DevOps, Containerization, Cloud Ops, SREaaS, Modernization, GenAI enabled solutions.  We offer managed cloud services based on AWS, Azure, OVH, Digital Ocean, Vultr.</h3>
 
 
 - The services offered include ETL, web scraping, machine learning, integration with Python, PySpark, Django, Docker, and PyTorch, along with DevOps services. This encompasses continuous integration/continuous deployment (CI/CD), GitHub Actions, automated deployments, GitLab Ops, AWS DevOps, and managed services for applications and servers.
